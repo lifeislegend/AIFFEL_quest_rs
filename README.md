@@ -1,6 +1,17 @@
 # AIFFEL Research Quest Repository
 
+## tree 설치하는 방법
 ```bash
+# tree 설치
+apt-get install tree
+
+# tree 사용방법
+tree -a -I '.git'
+
+```
+
+```bash
+
 .
 ├── Exploration
 │   ├── Ex01
