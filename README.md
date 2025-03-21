@@ -16,9 +16,7 @@
 │   │   └── README.md
 │   ├── Ex06
 │   │   └── README.md
-│   ├── Ex07
-│   │   └── README.md
-│   └── Ex08
+│   └── Ex07
 │       └── README.md
 ├── GoingDeeper
 │   ├── Go01
@@ -35,7 +33,9 @@
 │   │   └── README.md
 │   ├── Go07
 │   │   └── README.md
-│   └── Go08
+│   ├── Go08
+│   │   └── README.md
+│   └── Go09
 │       └── README.md
 ├── MainQuest
 │   ├── Quest01
@@ -46,14 +46,9 @@
 │   │   └── README.md
 │   ├── Quest04
 │   │   └── README.md
-│   ├── Quest05
-│   │   └── README.md
-│   ├── Quest06
-│   │   └── README.md
-│   ├── Quest07
-│   │   └── README.md
-│   └── Quest08
+│   └── Quest05
 │       └── README.md
 └── README.md
 
+24 directories, 22 files
 ```
