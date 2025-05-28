@@ -1,0 +1,6 @@
+# GD07 large files
+GoingDeeper/GD07/variables/
+GoingDeeper/GD07/saved_model.pb
+GoingDeeper/GD07/keras_metadata.pb
+GoingDeeper/GD07/seg_model_unet.h5
+GoingDeeper/GD07/seg_model_unetpp.h5
